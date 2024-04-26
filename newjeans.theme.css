@@ -11,7 +11,7 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
-  --background-image: url('https://64.media.tumblr.com/8cd66cc3a6899569e00e1f97f19a2283/24d4764c84ad722e-33/s540x810/3c086cd1976b10ced6c548b56a85b605aab0fb39.gifv');
+  --background-image: url('https://64.media.tumblr.com/8cd66cc3a6899569e00e1f97f19a2283/24d4764c84ad722e-33/s540x810/3c086cd1976b10ced6c548b56a85b605aab0fb39.gif');
   --background-image-blur: 0px;
   --background-image-size: cover;
   --background-image-position: center;
@@ -23,7 +23,7 @@
   --overlay-image-blur: 0px;
   --overlay-image-size: cover;
   --overlay-image-position: center;
-  --home-button-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fnewjeans-attention-official-mv-gzgNMu&psig=AOvVaw0bjd9r0Y2oWCwF1HQKtADS&ust=1714208716865000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCc2J7D34UDFQAAAAAdAAAAABAE');
+  --home-button-image: url('https://media1.tenor.com/m/vlAWIXAXuNUAAAAC/newjeans-omg.gif');
   --home-button-size: cover;
   --home-button-position: center;
   --serverlist-brightness: 0;
